@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <webLinks>
-        <label></label>
+        <label><!-- GoogleMaps --></label>
         <name>GoogleMaps</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label><!-- GoogleSearch --></label>
         <name>GoogleSearch</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label><!-- SendGmail --></label>
         <name>SendGmail</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label><!-- YahooMaps --></label>
         <name>YahooMaps</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label><!-- YahooWeather --></label>
         <name>YahooWeather</name>
     </webLinks>
 </CustomObjectTranslation>
